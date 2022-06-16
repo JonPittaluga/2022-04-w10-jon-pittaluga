@@ -28,6 +28,18 @@
   color: #61dafb;
 }
 
+.no-gentlemen {
+  height: 200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.no-gentlemen h1 {
+  padding-bottom: 2%;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
