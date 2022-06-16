@@ -72,6 +72,7 @@ function App() {
             <h2>
               There's no gentleman to be shown. <br />
               Reload the page or become yourself a pointing gentleman. <br />
+              <br />
               Call ISDI Coders for detailed instructions!
             </h2>
           </div>
